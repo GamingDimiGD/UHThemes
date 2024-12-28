@@ -1,0 +1,86 @@
+{
+    "id": "hackerman",
+    "name": "駭客",
+    "description": "對比度超高",
+    "author": "遊戲迪米",
+    "categories": [
+        "綠色系",
+        "紅色系",
+        "黑色系",
+        "高對比度"
+    ],
+    "data": [
+        {
+            "id": "w",
+            "value": "#000000"
+        },
+        {
+            "id": "main",
+            "value": "#000000"
+        },
+        {
+            "id": "theme",
+            "value": "#00ff00"
+        },
+        {
+            "id": "navbar",
+            "value": "#00ff00"
+        },
+        {
+            "id": "bg",
+            "value": "#000000"
+        },
+        {
+            "id": "d",
+            "value": "#ff00003c"
+        },
+        {
+            "id": "dialogue",
+            "value": "#000000"
+        },
+        {
+            "id": "text",
+            "value": "#00ff00"
+        },
+        {
+            "id": "text2",
+            "value": "#000000"
+        },
+        {
+            "id": "y",
+            "value": "#fff000"
+        },
+        {
+            "id": "p",
+            "value": "#cc77ff"
+        },
+        {
+            "id": "r",
+            "value": "red"
+        },
+        {
+            "id": "c",
+            "value": "cyan"
+        },
+        {
+            "id": "bh",
+            "value": "#00ff00"
+        },
+        {
+            "id": "link",
+            "value": "#000000"
+        },
+        {
+            "id": "lh",
+            "value": "#00ff00"
+        },
+        {
+            "id": "wintext",
+            "value": "#00ff00"
+        },
+        {
+            "id": "notif",
+            "value": "#00ff00"
+        }
+    ]
+}
