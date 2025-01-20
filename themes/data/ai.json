@@ -81,5 +81,7 @@
             "id": "notif",
             "value": "#FF6347"
         }
-    ]
+    ],
+    "customMusicURL": "themes/music/ai.mp3",
+    "custom10StreakMusicURL": "themes/streakMusic/ai.mp3"
 }

@@ -7,7 +7,8 @@
         "綠色系",
         "紅色系",
         "黑色系",
-        "高對比度"
+        "高對比度",
+        "特殊字體"
     ],
     "data": [
         {
@@ -82,5 +83,6 @@
             "id": "notif",
             "value": "#000000"
         }
-    ]
+    ],
+    "customCss":"@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');\r\n* {\r\n    font-family: \"Source Code Pro\", sans-serif;\r\n}"
 }
