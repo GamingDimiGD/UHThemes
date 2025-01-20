@@ -1,86 +1,88 @@
 {
-    "id": "hackerman",
-    "name": "駭客",
-    "description": "對比度超高",
+    "id": "blackwhite",
+    "name": "黑白",
+    "description": "哪來的配色，喔然後有特殊字體",
     "author": "遊戲迪米",
     "categories": [
-        "綠色系",
-        "紅色系",
         "黑色系",
-        "高對比度"
+        "白色系",
+        "灰色系",
+        "亮色系",
+        "特殊字體"
     ],
     "data": [
         {
             "id": "w",
-            "value": "#000000"
+            "value": "#fcfcfc"
         },
         {
             "id": "main",
-            "value": "#000000"
+            "value": "#414141"
         },
         {
             "id": "theme",
-            "value": "#00ff00"
+            "value": "#000000"
         },
         {
             "id": "navbar",
-            "value": "#00ff00"
+            "value": "#ffffff"
         },
         {
             "id": "bg",
-            "value": "#000000"
+            "value": "#a8a8a8"
         },
         {
             "id": "d",
-            "value": "#ff00003c"
+            "value": "#a8a8a83c"
         },
         {
             "id": "dialogue",
-            "value": "#000000"
+            "value": "#ffffff"
         },
         {
             "id": "text",
-            "value": "#00ff00"
+            "value": "#000000"
         },
         {
             "id": "text2",
-            "value": "#000000"
+            "value": "#ffffff"
         },
         {
             "id": "y",
-            "value": "#fff000"
+            "value": "#ffffff"
         },
         {
             "id": "p",
-            "value": "#cc77ff"
+            "value": "#ffffff"
         },
         {
             "id": "r",
-            "value": "red"
+            "value": "#ffffff"
         },
         {
             "id": "c",
-            "value": "cyan"
+            "value": "#ffffff"
         },
         {
             "id": "bh",
-            "value": "#00ff00"
+            "value": "#ffffff"
         },
         {
             "id": "link",
-            "value": "#000000"
+            "value": "#ffffff"
         },
         {
             "id": "lh",
-            "value": "#00ff00"
+            "value": "#ffffff"
         },
         {
             "id": "wintext",
-            "value": "#00ff00"
+            "value": "#000000"
         },
         {
             "id": "notif",
-            "value": "#000000"
+            "value": "#ffffff"
         }
-    ]
+    ],
+    "customCss": "@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap');\r\n* {\r\n    font-family: \"LXGW WenKai TC\", serif;\r\n}"
 }

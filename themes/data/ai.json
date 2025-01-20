@@ -1,86 +1,85 @@
 {
-    "id": "hackerman",
-    "name": "駭客",
-    "description": "對比度超高",
-    "author": "遊戲迪米",
-    "categories": [
-        "綠色系",
-        "紅色系",
-        "黑色系",
-        "高對比度"
-    ],
+    "id": "ai",
+    "name": "AI製造",
+    "description": "顏色是ChatGPT製造的，有些顏色不對請見諒",
+    "author": "ChatGPT",
+    "categories": ["藍色系", "亮色系"],
     "data": [
         {
             "id": "w",
-            "value": "#000000"
+            "value": "#FFFFFF"
         },
         {
             "id": "main",
-            "value": "#000000"
+            "value": "#F0F8FF"
         },
         {
             "id": "theme",
-            "value": "#00ff00"
+            "value": "#004080"
         },
         {
             "id": "navbar",
-            "value": "#00ff00"
+            "value": "#00274D"
+        },
+        {
+            "id": "navbar_text",
+            "value": "#FFFFFF"
         },
         {
             "id": "bg",
-            "value": "#000000"
+            "value": "#FFFFFF"
         },
         {
             "id": "d",
-            "value": "#ff00003c"
+            "value": "#A6A6A6"
         },
         {
             "id": "dialogue",
-            "value": "#000000"
+            "value": "#FFFFFF"
         },
         {
             "id": "text",
-            "value": "#00ff00"
+            "value": "#333333"
         },
         {
             "id": "text2",
-            "value": "#000000"
+            "value": "#CCCCCC"
         },
         {
             "id": "y",
-            "value": "#fff000"
+            "value": "#FFCC00"
         },
         {
             "id": "p",
-            "value": "#cc77ff"
+            "value": "#800080"
         },
         {
             "id": "r",
-            "value": "red"
+            "value": "#FF0000"
         },
         {
             "id": "c",
-            "value": "cyan"
+            "value": "#0066CC"
         },
         {
             "id": "bh",
-            "value": "#00ff00"
+            "value": "#CCCCFF"
         },
         {
             "id": "link",
-            "value": "#000000"
+            "value": "#0033CC"
         },
         {
             "id": "lh",
-            "value": "#00ff00"
+            "value": "#1A73E8"
         },
         {
             "id": "wintext",
-            "value": "#00ff00"
+            "value": "#006400"
         },
         {
             "id": "notif",
-            "value": "#000000"
+            "value": "#FF6347"
         }
     ]
 }
