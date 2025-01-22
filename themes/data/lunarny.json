@@ -1,0 +1,86 @@
+{
+    "id": "lunarny",
+    "name": "紅包",
+    "description": "沒有壓歲錢但有資源包",
+    "author": "遊戲迪米",
+    "categories": [
+        "黃色系",
+        "紅色系",
+        "特殊字體"
+    ],
+    "data": [
+        {
+            "id": "w",
+            "value": "#fcfcfc"
+        },
+        {
+            "id": "main",
+            "value": "#ffaf00"
+        },
+        {
+            "id": "theme",
+            "value": "#3c0000"
+        },
+        {
+            "id": "navbar",
+            "value": "#3c0000"
+        },
+        {
+            "id": "bg",
+            "value": "#3c1c00"
+        },
+        {
+            "id": "d",
+            "value": "#3c00003c"
+        },
+        {
+            "id": "dialogue",
+            "value": "#4c0000"
+        },
+        {
+            "id": "text",
+            "value": "#000000"
+        },
+        {
+            "id": "text2",
+            "value": "#ffaf00"
+        },
+        {
+            "id": "y",
+            "value": "#fff000"
+        },
+        {
+            "id": "p",
+            "value": "#ff0000"
+        },
+        {
+            "id": "r",
+            "value": "red"
+        },
+        {
+            "id": "c",
+            "value": "#ffaf00"
+        },
+        {
+            "id": "bh",
+            "value": "#3c0000"
+        },
+        {
+            "id": "link",
+            "value": "#ffaf00"
+        },
+        {
+            "id": "lh",
+            "value": "#3c0000"
+        },
+        {
+            "id": "wintext",
+            "value": "#000000"
+        },
+        {
+            "id": "notif",
+            "value": "#ffaf00"
+        }
+    ],
+    "customCss": "@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap');\n\n* {\n    font-family: \"LXGW WenKai TC\", serif;\n\t\tfont-weight: 1000;\n}"
+}
