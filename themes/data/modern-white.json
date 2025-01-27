@@ -4,7 +4,15 @@
     "description": "每個網站大概都長這樣",
     "author": "遊戲迪米",
     "categories": [
+        "白色系",
         "亮色系"
+    ],
+    "nameEN": "Modern White",
+    "descriptionEN": "Every website looks like this.",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "White",
+        "Bright"
     ],
     "data": [
         {

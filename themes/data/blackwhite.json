@@ -1,7 +1,7 @@
 {
     "id": "blackwhite",
     "name": "黑白",
-    "description": "哪來的配色，喔然後有特殊字體",
+    "description": "猜猜哪來的配色👀，喔然後有特殊字體",
     "author": "遊戲迪米",
     "categories": [
         "黑色系",
@@ -9,6 +9,16 @@
         "灰色系",
         "亮色系",
         "特殊字體"
+    ],
+    "nameEN": "Black and White",
+    "descriptionEN": "Guess the reference 👀",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Black",
+        "White",
+        "Gray",
+        "Bright",
+        "Special-font"
     ],
     "data": [
         {

@@ -7,6 +7,13 @@
         "綠色系",
         "亮色系"
     ],
+    "nameEN": "Green",
+    "descriptionEN": "Low contrast, very strange colors.",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Green",
+        "Bright"
+    ],
     "data": [
         {
             "id": "w",

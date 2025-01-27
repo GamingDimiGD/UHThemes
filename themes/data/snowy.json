@@ -7,6 +7,13 @@
         "藍色系",
         "亮色系"
     ],
+    "nameEN": "Snowy",
+    "descriptionEN": "MY EYES HURT AAAH",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Blue",
+        "Dark"
+    ],
     "data": [
         {
             "id": "w",

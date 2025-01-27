@@ -8,6 +8,14 @@
         "亮色系",
         "高對比度"
     ],
+    "nameEN": "Cyan",
+    "descriptionEN": "Atleast it's not deep blue",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Blue",
+        "Bright",
+        "High-Contrast"
+    ],
     "data": [
         {
             "id": "w",

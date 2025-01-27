@@ -9,6 +9,15 @@
         "暗色系",
         "高對比度"
     ],
+    "nameEN": "Dreamy",
+    "descriptionEN": "Alien-like colors!",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Purple",
+        "Yellow",
+        "Dark",
+        "High Contrast"
+    ],
     "data": [
         {
             "id": "w",

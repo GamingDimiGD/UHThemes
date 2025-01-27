@@ -4,7 +4,15 @@
     "description": "黑白感覺",
     "author": "遊戲迪米",
     "categories": [
+        "黑色系",
         "暗色系"
+    ],
+    "nameEN": "Modern Black",
+    "descriptionEN": "It feels like it has a black and white filter over it!",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Black",
+        "Dark"
     ],
     "data": [
         {

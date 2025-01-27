@@ -7,6 +7,13 @@
         "紫色系",
         "亮色系"
     ],
+    "nameEN": "Purple",
+    "descriptionEN": "Purple, only purple.",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Purple",
+        "Bright"
+    ],
     "data": [
         {
             "id": "w",

@@ -10,6 +10,16 @@
         "高對比度",
         "特殊字體"
     ],
+    "nameEN": "Hackerman",
+    "descriptionEN": "Very high contrast, with a \"hacking\" feeling!",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Green",
+        "Red",
+        "Black",
+        "High-Contrast",
+        "Special-font"
+    ],
     "data": [
         {
             "id": "w",

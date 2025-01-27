@@ -8,6 +8,14 @@
         "亮色系",
         "高對比度"
     ],
+    "nameEN": "Bloody",
+    "descriptionEN": "eww what is this",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Red",
+        "Bright",
+        "High-Contrast"
+    ],
     "data": [
         {
             "id": "w",

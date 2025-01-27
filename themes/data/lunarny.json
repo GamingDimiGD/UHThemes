@@ -8,6 +8,14 @@
         "紅色系",
         "特殊字體"
     ],
+    "nameEN": "Red envelope",
+    "descriptionEN": "No money inside, but there is a resource pack!",
+    "authorEN": "GamingDimiGD",
+    "categoriesEN": [
+        "Yellow",
+        "Red",
+        "Special-font"
+    ],
     "data": [
         {
             "id": "w",
